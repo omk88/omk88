@@ -3,10 +3,6 @@
 
 
 
-&emsp;
-&emsp;
-&emsp;
-
 
 <div>
   <a href="https://www.linkedin.com/in/e-learmount/">
@@ -65,6 +61,11 @@ My toolkit includes, but is not limited to:
 
 </div>
 
+<br />
+<br />
+<br />
+<br />
+<br />
 
 <div>
   <a href="https://www.linkedin.com/in/e-learmount/">
