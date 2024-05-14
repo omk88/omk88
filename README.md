@@ -17,7 +17,6 @@
 </div>
 
 <br />
-<br />
 
 ![githubbanner](https://github.com/omk88/omk88/assets/46501575/d9a0156a-2f8a-4154-adb8-57013dce51ef)
 
