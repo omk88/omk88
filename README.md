@@ -1,8 +1,13 @@
 <img src="https://komarev.com/ghpvc/?username=omk88&style=flat-square&color=blue" alt=""/>
 
+<div>
   <a href="https://www.linkedin.com/in/e-learmount/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="emmanuel.learmount@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
 
 ![githubbanner](https://github.com/omk88/omk88/assets/46501575/d9a0156a-2f8a-4154-adb8-57013dce51ef)
 
