@@ -7,6 +7,9 @@
   <a href="emmanuel.learmount@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+  <a href="emmanuel.learmount@gmail.com">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
 
 ![githubbanner](https://github.com/omk88/omk88/assets/46501575/d9a0156a-2f8a-4154-adb8-57013dce51ef)
