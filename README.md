@@ -69,14 +69,14 @@ My toolkit includes, but is not limited to:
 <br />
 <br />
 
-<div>
-  <a href="https://www.linkedin.com/in/e-learmount/">
+<div align=center>
+  <a href="https://www.linkedin.com/in/e-learmount/" align=center>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="emmanuel.learmount@gmail.com">
+  <a href="emmanuel.learmount@gmail.com" align=center>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="emmanuel.learmount@gmail.com">
+  <a href="emmanuel.learmount@gmail.com" align=center>
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
