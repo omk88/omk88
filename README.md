@@ -1,5 +1,6 @@
 
-![githubbanner](https://github.com/omk88/omk88/assets/46501575/d7c3dffe-2ec9-4a5f-90bb-f129ed0037bc)
+![githubbanner](https://github.com/omk88/omk88/assets/46501575/d9a0156a-2f8a-4154-adb8-57013dce51ef)
+
 
 ## Hi there 👋
 
