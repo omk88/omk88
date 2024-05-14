@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-## About Me
+### About Me
 I am a software developer specialising in various different technologies, including Java, Python, Kotlin and many more. I graduated from Queen Mary, University of London in 2023 with a BSc in Computing, where I achieved a respectable 2:1. I enjoy using my skills to create interesting and useful projects for other people to use!
 
 <!--
