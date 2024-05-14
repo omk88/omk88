@@ -18,7 +18,7 @@ I am a software developer specialising in various different technologies, includ
 ## 🛠️ Technologies & Skills
 My toolkit includes, but is not limited to:
 
-# Programming Languages
+### Programming Languages
 
 <!--
 **omk88/omk88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
