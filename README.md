@@ -66,8 +66,7 @@ My toolkit includes, but is not limited to:
 <br />
 <br />
 <br />
-<br />
-<br />
+
 
 <div align=center>
   <a href="https://www.linkedin.com/in/e-learmount/" align=center>
