@@ -2,8 +2,10 @@
 
 ![githubbanner](https://github.com/omk88/omk88/assets/46501575/d9a0156a-2f8a-4154-adb8-57013dce51ef)
 
-
-## Hi there 👋
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 ### About Me
 I am a software developer specialising in various different technologies, including Java, Python, Kotlin and many more. I graduated from Queen Mary, University of London in 2023 with a BSc in Computing, where I achieved a respectable 2:1. I enjoy using my skills to create interesting and useful projects for other people to use!
