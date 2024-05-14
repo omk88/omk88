@@ -57,6 +57,19 @@ My toolkit includes, but is not limited to:
 
 </div>
 
+
+<div>
+  <a href="https://www.linkedin.com/in/e-learmount/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="emmanuel.learmount@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="emmanuel.learmount@gmail.com">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 <!--
 **omk88/omk88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
