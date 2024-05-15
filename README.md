@@ -3,25 +3,6 @@
 
 <br />
 
-
-<div align=center>
-  <a href="https://www.linkedin.com/in/e-learmount/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  &emsp;
-  &emsp;
-  <a href="emmanuel.learmount@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  &emsp;
-  &emsp;
-  <a href="emmanuel.learmount@gmail.com">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
-<br />
-
 ![githubbanner](https://github.com/omk88/omk88/assets/46501575/d9a0156a-2f8a-4154-adb8-57013dce51ef)
 
 <h1>
